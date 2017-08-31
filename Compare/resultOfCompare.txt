@@ -1,0 +1,10 @@
+Comparison of "C:\Users\Anisytin\Documents\history\Original" and "C:\Users\Anisytin\Documents\history\1" has been started!
+All values are shown which difference is greater 0.001
+"forceDrug.plt"
+ 122.224 || 122.223
+End of file was found
+
+"forceLift.plt"
+End of file was found
+
+Oops file "C:\Users\Anisytin\Documents\history\1\readme.txt" does not exist

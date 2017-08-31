@@ -1,0 +1,7 @@
+Compare/Release/
+Compare/Debug/
+Compare/x64/
+.vs/
+x64/
+Debug/
+*.user
